@@ -53,11 +53,13 @@ At this time I've accepted a job so that I can pay for the courses there at Bitw
 <p>
 Here's the places I've interviewed for and the companies and position:
 </p>
+
 - PC Pierce - Web Design
 - WebSite Relief - Web Design
 - FocusVision - Q/A position
 - Walgreens - Store Manager
 - Target - Management team member
 - Baby's R Us - Management team member
+
 <p>
 </p>
